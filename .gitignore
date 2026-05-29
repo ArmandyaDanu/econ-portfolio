@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data sensitif atau besar
+data/raw/*.xlsx
+data/raw/*.csv
+*.zip
+*.rar
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output sementara
+outputs/figures/*.png
+outputs/tables/*.csv
+
+# IDE
+.vscode/
+.idea/
