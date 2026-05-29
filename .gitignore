@@ -28,3 +28,5 @@ outputs/tables/*.csv
 # IDE
 .vscode/
 .idea/
+Untitled.ipynb
+anaconda_projects
