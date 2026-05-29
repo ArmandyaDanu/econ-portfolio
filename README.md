@@ -29,6 +29,7 @@ econ-portfolio/
 |----|-------|-------|--------|
 | 01 | Eksplorasi Data Ekonomi Indonesia | Tren makro: GDP, inflasi, pengangguran 2000–2022 | ✅ Done |
 | 02 | Phillips Curve Indonesia | Regresi OLS inflasi vs pengangguran | ✅ Done |
+| 03 | Forecasting Inflasi Indonesia | ARIMA time series, validasi 2024, forecast 2025 | ✅ Done |
 
 *Tabel ini akan terus diperbarui seiring bertambahnya analisis.*
 
