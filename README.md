@@ -27,7 +27,8 @@ econ-portfolio/
 
 | No | Judul | Topik | Status |
 |----|-------|-------|--------|
-| 01 | Eksplorasi Data Ekonomi Indonesia | Data makro BPS | 🔄 In progress |
+| 01 | Eksplorasi Data Ekonomi Indonesia | Tren makro: GDP, inflasi, pengangguran 2000–2022 | ✅ Done |
+| 02 | Phillips Curve Indonesia | Regresi OLS inflasi vs pengangguran | ✅ Done |
 
 *Tabel ini akan terus diperbarui seiring bertambahnya analisis.*
 
