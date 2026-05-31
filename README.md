@@ -31,6 +31,7 @@ econ-portfolio/
 | 02 | [Phillips Curve Indonesia](notebooks/02_phillips_curve_ols.ipynb) | Regresi OLS inflasi vs pengangguran | ✅ Done |
 | 03 | [ARIMA Forecasting Inflasi](notebooks/03_arima_forecasting_inflasi.ipynb) | Time series forecast inflasi 2025 | ✅ Done |
 | 04 | [DCF Valuation UNVR](notebooks/04_unvr_dcf_valuation.ipynb) | Equity research + sensitivity analysis | ✅ Done |
+| 05 | [Komparasi Bank Big-3](notebooks/05_banking_comparison.ipynb) | Rasio keuangan + valuasi BBCA, BMRI, BBRI | ✅ Done |
 
 *Tabel ini akan terus diperbarui seiring bertambahnya analisis.*
 
