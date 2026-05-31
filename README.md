@@ -27,9 +27,10 @@ econ-portfolio/
 
 | No | Judul | Topik | Status |
 |----|-------|-------|--------|
-| 01 | Eksplorasi Data Ekonomi Indonesia | Tren makro: GDP, inflasi, pengangguran 2000–2022 | ✅ Done |
-| 02 | Phillips Curve Indonesia | Regresi OLS inflasi vs pengangguran | ✅ Done |
-| 03 | Forecasting Inflasi Indonesia | ARIMA time series, validasi 2024, forecast 2025 | ✅ Done |
+| 01 | [Eksplorasi Makroekonomi Indonesia](notebooks/01_eksplorasi_data.ipynb) | Tren GDP, inflasi, pengangguran 2000–2022 | ✅ Done |
+| 02 | [Phillips Curve Indonesia](notebooks/02_phillips_curve_ols.ipynb) | Regresi OLS inflasi vs pengangguran | ✅ Done |
+| 03 | [ARIMA Forecasting Inflasi](notebooks/03_arima_forecasting_inflasi.ipynb) | Time series forecast inflasi 2025 | ✅ Done |
+| 04 | [DCF Valuation UNVR](notebooks/04_unvr_dcf_valuation.ipynb) | Equity research + sensitivity analysis | ✅ Done |
 
 *Tabel ini akan terus diperbarui seiring bertambahnya analisis.*
 
