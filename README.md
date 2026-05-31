@@ -23,15 +23,15 @@ econ-portfolio/
 
 ---
 
-## Proyek
+## 📓 Proyek
 
-| No | Judul | Topik | Status |
-|----|-------|-------|--------|
-| 01 | [Eksplorasi Makroekonomi Indonesia](notebooks/01_eksplorasi_data.ipynb) | Tren GDP, inflasi, pengangguran 2000–2022 | ✅ Done |
-| 02 | [Phillips Curve Indonesia](notebooks/02_phillips_curve_ols.ipynb) | Regresi OLS inflasi vs pengangguran | ✅ Done |
-| 03 | [ARIMA Forecasting Inflasi](notebooks/03_arima_forecasting_inflasi.ipynb) | Time series forecast inflasi 2025 | ✅ Done |
-| 04 | [DCF Valuation UNVR](notebooks/04_unvr_dcf_valuation.ipynb) | Equity research + sensitivity analysis | ✅ Done |
-| 05 | [Komparasi Bank Big-3](notebooks/05_banking_comparison.ipynb) | Rasio keuangan + valuasi BBCA, BMRI, BBRI | ✅ Done |
+| No | Judul | Topik | Tools | Notebook |
+|----|-------|-------|-------|----------|
+| 01 | Eksplorasi Makroekonomi Indonesia | Tren GDP, inflasi, pengangguran 2000–2022 | pandas, matplotlib | [Buka ↗](https://nbviewer.org/github/ArmandyaDanu/econ-portfolio/blob/main/notebooks/01_eksplorasi_data.ipynb) |
+| 02 | Phillips Curve Indonesia | Regresi OLS inflasi vs pengangguran | statsmodels, seaborn | [Buka ↗](https://nbviewer.org/github/ArmandyaDanu/econ-portfolio/blob/main/notebooks/02_phillips_curve_ols.ipynb) |
+| 03 | ARIMA Forecasting Inflasi | Time series forecast inflasi 2025 | ARIMA, scikit-learn | [Buka ↗](https://nbviewer.org/github/ArmandyaDanu/econ-portfolio/blob/main/notebooks/03_arima_forecasting_inflasi.ipynb) |
+| 04 | DCF Valuation UNVR | Equity research + sensitivity analysis | yfinance, numpy | [Buka ↗](https://nbviewer.org/github/ArmandyaDanu/econ-portfolio/blob/main/notebooks/04_unvr_dcf_valuation.ipynb) |
+| 05 | Komparasi Bank Big-3 | Rasio keuangan + valuasi BBCA, BMRI, BBRI | pandas, seaborn | [Buka ↗](https://nbviewer.org/github/ArmandyaDanu/econ-portfolio/blob/main/notebooks/05_banking_comparison.ipynb) |
 
 *Tabel ini akan terus diperbarui seiring bertambahnya analisis.*
 
